@@ -13,14 +13,14 @@ Tools made as a part of the Gkoutos Group / HDR UK Birmingham from current or pr
 | **PowerTools** | [labrax](https://github.com/labrax) | A random forest based biomarker discovery and power analysis framework for diagnostics research | https://doi.org/10.1186/s12920-020-00826-6 |
 | **RNA-seq pipeline** | [labrax](https://github.com/labrax) | Pipeline to assist downloading, preparing genome files and then performing analysis on RNA-seq files using either human or mice reference genome | https://dx.doi.org/10.1172%2Fjci.insight.139179 https://heart.bmj.com/content/104/Suppl_6/A95 |
 | [**Vec2SPARQL**](https://github.com/gkoutos-group/vec2sparql) | [coolmaksat](https://github.com/coolmaksat), [amalic](https://github.com/amalic), [athro](https://github.com/athro) | SPARQL Endpoint with functions for computing embedding similarities |   |
-| [**Komenti**](https://github.com/reality/komenti) | [reality](https://github.com/reality | Semantic text mining framework  | https://doi.org/10.1101/2020.08.04.233049 |
-| [**komenti-guides**](https://github.com/reality/komenti_guide) | [reality](https://github.com/reality | Guides for how to use komenti | https://doi.org/10.1101/2020.08.04.233049 |
-| [**komenti-validator**](https://github.com/reality/komenti-validator) | [reality](https://github.com/reality | Front-end validation tool for Komenti | https://doi.org/10.1101/2020.08.04.233049 |
-| [**donita**](https://github.com/reality/komenti) | [reality](https://github.com/reality | Provisional term management service for ontologies | |
-| [**generate-patients**](https://github.com/reality/generate-patients) | [reality](https://github.com/reality | Generate noisy patients for semantic similarity experiments | |
-| [**add_synonyms**](https://github.com/reality/add_synonyms) | [reality](https://github.com/reality | Add a list of synonyms to an OWL ontology | https://doi.org/10.1101/2020.07.10.197541 |
-| [**mimpred**](https://github.com/reality/mimpred) | [reality](https://github.com/reality | Reproducible experimental foundation for experiments with MIMIC | |
-| [**mim3val**](https://github.com/reality/mim3val) | [reality](https://github.com/reality | Test the performance of several negation algorithms over MIMIC-III, and a standalone implementation of komenti-negation | https://doi.org/10.1016/j.compbiomed.2021.104216 |
-| [**mimsim**](https://github.com/reality/mimsim) | [reality](https://github.com/reality | Tools for performing semantic similarity over MIMIC-III | https://doi.org/10.1101/2021.01.26.428269 |
-| [**ECMO**](https://github.com/reality/ecmo) | [reality](https://github.com/reality | Extended Clinical Measurement Ontology with additional axiomatisation and connection with HP and MP ontologies | |
-| [**synonym_expansion_validation**](https://github.com/reality/synonym_expansion_validation) | [reality](https://github.com/reality | Extended HPO and DO vocabularies for use with text mining | https://doi.org/10.1101/2020.07.10.197541 |
+| [**Komenti**](https://github.com/reality/komenti) | [reality](https://github.com/reality) | Semantic text mining framework  | https://doi.org/10.1101/2020.08.04.233049 |
+| [**komenti-guides**](https://github.com/reality/komenti_guide) | [reality](https://github.com/reality) | Guides for how to use komenti | https://doi.org/10.1101/2020.08.04.233049 |
+| [**komenti-validator**](https://github.com/reality/komenti-validator) | [reality](https://github.com/reality) | Front-end validation tool for Komenti | https://doi.org/10.1101/2020.08.04.233049 |
+| [**donita**](https://github.com/reality/komenti) | [reality](https://github.com/reality) | Provisional term management service for ontologies | |
+| [**generate-patients**](https://github.com/reality/generate-patients) | [reality](https://github.com/reality) | Generate noisy patients for semantic similarity experiments | |
+| [**add_synonyms**](https://github.com/reality/add_synonyms) | [reality](https://github.com/reality) | Add a list of synonyms to an OWL ontology | https://doi.org/10.1101/2020.07.10.197541 |
+| [**mimpred**](https://github.com/reality/mimpred) | [reality](https://github.com/reality) | Reproducible experimental foundation for experiments with MIMIC | |
+| [**mim3val**](https://github.com/reality/mim3val) | [reality](https://github.com/reality) | Test the performance of several negation algorithms over MIMIC-III, and a standalone implementation of komenti-negation | https://doi.org/10.1016/j.compbiomed.2021.104216 |
+| [**mimsim**](https://github.com/reality/mimsim) | [reality](https://github.com/reality) | Tools for performing semantic similarity over MIMIC-III | https://doi.org/10.1101/2021.01.26.428269 |
+| [**ECMO**](https://github.com/reality/ecmo) | [reality](https://github.com/reality) | Extended Clinical Measurement Ontology with additional axiomatisation and connection with HP and MP ontologies | |
+| [**synonym_expansion_validation**](https://github.com/reality/synonym_expansion_validation) | [reality](https://github.com/reality) | Extended HPO and DO vocabularies for use with text mining | https://doi.org/10.1101/2020.07.10.197541 |
