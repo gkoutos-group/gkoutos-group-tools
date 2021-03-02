@@ -18,6 +18,7 @@ Tools made as a part of the Gkoutos Group / HDR UK Birmingham from current or pr
 | [**komenti-validator**](https://github.com/reality/komenti-validator) | [reality](https://github.com/reality) | Front-end validation tool for Komenti | https://doi.org/10.1101/2020.08.04.233049 |
 | [**donita**](https://github.com/reality/komenti) | [reality](https://github.com/reality) | (In development) Provisional term management service for ontologies | |
 | [**generate-patients**](https://github.com/reality/generate-patients) | [reality](https://github.com/reality) | Generate noisy patients for semantic similarity experiments | |
+| [**sampledd**](https://github.com/reality/sampledd) | [reality](https://github.com/reality) | Sample patients who will die during their stay in MIMIC-iii, and their associated text records. | |
 | [**add_synonyms**](https://github.com/reality/add_synonyms) | [reality](https://github.com/reality) | Add a list of synonyms to an OWL ontology | https://doi.org/10.1101/2020.07.10.197541 |
 | [**mimpred**](https://github.com/reality/mimpred) | [reality](https://github.com/reality) | (In development) Reproducible experimental foundation for experiments with MIMIC | |
 | [**mim3val**](https://github.com/reality/mim3val) | [reality](https://github.com/reality) | Test the performance of several negation algorithms over MIMIC-III, and a standalone implementation of komenti-negation | https://doi.org/10.1016/j.compbiomed.2021.104216 |
