@@ -26,6 +26,6 @@ Tools made as a part of the Gkoutos Group / HDR UK Birmingham from current or pr
 | [**ECMO**](https://github.com/reality/ecmo) | [reality](https://github.com/reality) | Extended Clinical Measurement Ontology with additional axiomatisation and connection with HP and MP ontologies | |
 | [**synonym_expansion_validation**](https://github.com/reality/synonym_expansion_validation) | [reality](https://github.com/reality) | Extended HPO and DO vocabularies for use with text mining | https://doi.org/10.1101/2020.07.10.197541 |
 | [**UNMIREOT**](https://github.com/bio-ontology-research-group/UNMIREOT) | [reality](https://github.com/reality) | Tools for testing the mutual consistency of biomedical ontologies | https://doi.org/10.1186/s12911-020-01336-2 |
-| [**OCIMIDO**](https://github.com/sap218/ocimido) | [sap218](https://github.com/sap218) | Ocular Immune-Mediated Inflammatory Diseases Ontology |  |
+| [**OCIMIDO**](https://github.com/sap218/ocimido) | [sap218](https://github.com/sap218) | Ocular Immune-Mediated Inflammatory Diseases Ontology | https://doi.org/10.1016/j.compbiomed.2021.104542 |
 | [**Jabberwocky**](https://github.com/sap218/jabberwocky) | [sap218](https://github.com/sap218) | Toolkit for ontologies: text mining & synonym curation | https://doi.org/10.21105/joss.02168 |
 
